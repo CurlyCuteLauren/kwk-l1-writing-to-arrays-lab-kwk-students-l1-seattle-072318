@@ -5,3 +5,4 @@ rainbow_colors[1]="light_red"
 rainbow_colors[2]= "light_yellow"
 return rainbow_colors
 end
+def add_colors
