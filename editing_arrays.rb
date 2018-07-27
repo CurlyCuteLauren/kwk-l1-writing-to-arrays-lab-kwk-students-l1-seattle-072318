@@ -6,3 +6,6 @@ rainbow_colors[2]= "light_yellow"
 return rainbow_colors
 end
 def add_colors
+  rainbow_colors<< "green"
+  rainbow_colors<< "blue"
+end
