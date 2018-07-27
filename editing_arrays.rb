@@ -6,7 +6,7 @@ rainbow_colors[2]= "light_yellow"
 return rainbow_colors
 end
 def add_colors
-  rainbow_colors= add_colors
+  rainbow_colors = add_colors
   puts rainbow_colors.push("green")
   puts rainbow_colors.push("blue")
   puts rainbow_colors
